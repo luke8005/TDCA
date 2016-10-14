@@ -9,7 +9,7 @@ Mike Myschyshyn, mmyschyshyn@gmail.com
 
 MANUAL
 ======
-see https://github.com/luke8005/TDCA/tdca-manual.pdf
+see https://github.com/luke8005/TDCA
 
 DIRECTORY CONTENTS
 ==================
