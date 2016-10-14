@@ -1,4 +1,4 @@
-# TDCA 1.0.0
+TDCA 1.0.0
 ==========
 Time Dependent ChIP-Sequencing Analysis
 2016. Mike Myschyshyn, Marco Farren-Dai, Tien-Jui Chuang and David Vocadlo.
@@ -14,7 +14,7 @@ see https://github.com/luke8005/TDCA
 DIRECTORY CONTENTS
 ==================
 	lib: Built in libraries. Files can be added to the GenomeFeatures folder as specified in manual.
-	obj: Container for object files.
+	obj: Container for object files (constructed after make).
 	src: Source code.
 	
 DOWNLOAD/INSTALL
